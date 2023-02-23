@@ -34,3 +34,8 @@
 
 5. Model evaluation: 
     - Evaluating the performance of the model(s) using various metrics, such as accuracy, precision, recall, F1 score, and AUC-ROC.
+
+Useful Links:
+- [EDA visualisations](https://www.data-to-viz.com/)
+- [EDA chart names](https://ft-interactive.github.io/visual-vocabulary/)
+- [Data science map](https://coggle.it/diagram/XIpNSBc5AmfW0P_J/t/data-science-map)
