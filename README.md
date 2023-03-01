@@ -1,7 +1,7 @@
 # we-love-SC1015-please-give-A
 
 ## Tutorial Group: A134
-### *Members: Shingamu Sai Ajay, Siah Yee Long,*
+### *Members: Shingamu Sai Ajay, Siah Yee Long, Sally Ngui Yu Ying*
 
 
 
