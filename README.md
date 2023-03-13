@@ -3,37 +3,19 @@
 ## Tutorial Group: A134
 ### *Members: Shingamu Sai Ajay, Siah Yee Long, Sally Ngui Yu Ying*
 
+- [x] Data preparation
+    - Added features into HDB resale dataset:
+        1. Get coordinates and address of flat sold
+        2. Get all MRT stations info and created "nearest MRT" and "distance to nearest MRT" feature
+        3. Get all primary and secondary schools info and created "schools within 1km" feature
+        4. Get all shopping malls info and created "nearest mall", "mall nearest distance", "mall within 500m" and "mall within 1km" feature
+        5. Get all hawker centres info and created "hawkers within 1km" feature
+        6. Connected to Google Map's API to get "travel time to RP (Raffles Place MRT Station) in minutes" feature
+- [ ] EDA
+- [ ] Analytics visualisation (perhaps we can do this on PowerBI
+- [ ] Machine learning
+- [ ] Video
 
-
-- Ideas:
-    - predict success using other variables
-        - define what success is (1.5x profit?)
-    - predict IMDB score using other variables
-        - budget
-        - director
-        - actors
-        - keywords
-
-
-1. Data preprocessing:
-    - cleaning
-    - filtering
-    - transforming
-    - normalizing
-
-2. Exploratory data analysis (EDA): 
-    - distribution, 
-    - correlation, 
-    - outliers, and missing values.
-
-3. Feature selection and engineering: 
-    - Identifying and selecting the most relevant features to include in the model, and creating new features that may be useful for prediction.
-
-4. Model selection and training: 
-    - Selecting the appropriate machine learning algorithm(s) based on the problem, and training the model(s) on the data.
-
-5. Model evaluation: 
-    - Evaluating the performance of the model(s) using various metrics, such as accuracy, precision, recall, F1 score, and AUC-ROC.
 
 Useful Links:
 - [EDA visualisations](https://www.data-to-viz.com/)
