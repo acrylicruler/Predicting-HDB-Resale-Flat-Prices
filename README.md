@@ -24,7 +24,13 @@
 **Our Question**: How can we predict the prices of HDB resale flats given property and geographical features?
 
 # 2. Data Preparation and Cleaning
-
+Added features into HDB resale dataset: 
+1. Get coordinates and address of flat sold
+2. Get all MRT stations info and created "nearest MRT" and "distance to nearest MRT" feature
+3. Get all primary and secondary schools info and created "schools within 1km" feature
+4. Get all shopping malls info and created "nearest mall", "mall nearest distance", "mall within 500m" and "mall within 1km" feature
+5. Get all hawker centres info and created "hawkers within 1km" feature
+6. Connected to Google Map's API to get "travel time to RP (Raffles Place MRT Station) in minutes" feature
 
 # 3. Exploratory Data Analysis
 We conducted EDA on numerical and categorical variables. 
