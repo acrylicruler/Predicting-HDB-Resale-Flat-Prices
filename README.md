@@ -75,7 +75,4 @@ As we were doing this project, we realised that Data.gov.sg updated their datase
 
 However, it is possible that there are other factors might also affect resale price, such as economic conditions, government intervention, crime rate. This could be an area for future research that we believe will enable better predictions of resale prices and allow future buyers to make more informed decisions before purchasing.
 
-Useful Links:
-- [EDA visualisations](https://www.data-to-viz.com/)
-- [EDA chart names](https://ft-interactive.github.io/visual-vocabulary/)
-- [Data science map](https://coggle.it/diagram/XIpNSBc5AmfW0P_J/t/data-science-map)
+
