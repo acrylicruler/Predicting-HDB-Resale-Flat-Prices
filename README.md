@@ -16,18 +16,34 @@
 - [ ] Machine learning
 - [ ] Video
 
-## 1. Problem Formulation
+# 1. Problem Formulation
+**Our Dataset**: 
+
+**Our Motivation**: 
+
+**Our Question**: How can we predict the prices of HDB resale flats?
+
+
+# 2. Data Preparation and Cleaning
+
+
+# 3. Exploratory Data Analysis
+
+
+# 4. Machine Learning
+### After finding some possible factors that might affect the HDB resale price, we can attempt to predict the resale price of a given flat for future buyers using machine learning models. The models that we have chosen are Support Vector Regression (SVR), Random Forest Regression, and XGBoost.
+
+## 4A. Support Vector Regression
+
+
+## 4B. Random Forest Regression
+
+
+## 4C. XGBoost
 
 
 
-## 2. Data Preparation and Cleaning
-
-
-## 3. Exploratory Data Analysis
-
-
-
-## 4. Machine Learning
+# 5. Results
 
 | Model         | Model Accuracy   | Tuned Model Accuracy |
 | ------------- | ---------------- | -------------------- |
@@ -37,7 +53,7 @@
 
 
 
-## 5. Conclusion
+# 6. Conclusion
 
 
 Useful Links:
