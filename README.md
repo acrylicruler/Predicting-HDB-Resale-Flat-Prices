@@ -27,36 +27,45 @@
 
 
 # 3. Exploratory Data Analysis
-
+We conducted EDA on numerical and categorical variables. 
 
 # 4. Machine Learning
 After finding some possible factors that might affect the HDB resale price, we can attempt to predict the resale price of a given flat for future buyers using machine learning models. The models that we have chosen are Support Vector Regression (SVR), Random Forest Regression, and XGBoost.
 
 ## 4A. Support Vector Regression
+Support Vector Regression (SVR) works by finding a hyperplane that maximizes the margin between the data points and the hyperplane while still fitting the data within a certain tolerance level.
 
+We first one-hot encode categorical data. Then, we train-test-split the data and scaled numerical features before training our model with a basic linear model. We achieved an accuracy score of (value) and RMSE of (value).
+
+After tuning the hyperparameters of our model by using Random Search and Grid Search. We found that Grid Search gave a higher accuracy of (value).
 
 ## 4B. Random Forest Regression
 Random Forest Regression uses ensemble learning method for regression and combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model. We can use this model to predict resale price.
 
-After running the random forest regression model, we found that the model accuracy is 0.956.
+We dropped columns that are not needed and conducted label-encoding for categorical variables. After doing a train-test-split and running the random forest regression model, we found that the model accuracy is 0.956 and RMSE is 35164.
 
 We found that the most important variables that affect resale price are floor area in sqm, travel time to Raffles Place MRT and remaining lease.
 
-To achieve better predictions, we tuned the hyperparameters of our model using Random Search and Grid Search and found that Random Search produces a slightly higher model accuracy of 0.957.
+After tuning the hyperparameters of our model, we found that Random Search produces a slightly higher model accuracy of 0.957.
 
 ## 4C. XGBoost
+Gradient Boosted Regression Trees (GBRTs) combine the power of decision trees and gradient boosting to improve the accuracy of predictions. They are widely used in regression problems, where the goal is to predict a continuous target variable. 
 
+We cleaned up the data by dropping a few variables that are unnecessary. Then we label-encoded the categorical variables. 
 
+After that, we did a train-test-split and ran the model. We obtained the RMSE of (value), R-squared score of (value) and Explained Variance Score of (value).
+
+After tuning the hyperparameters of our model, we found that Grid Search produced a higher accuracy of (value).
 
 # 5. Results
 
-| Model         | Model Accuracy   | Tuned Model Accuracy |
+| ML Model      | Model Accuracy   | Tuned Model Accuracy | 
 | ------------- | ---------------- | -------------------- |
-| SVM           | 0.523            | 0.922                |
+| SVR           | 0.523            | 0.922                |
 | Random Forest | 0.956            | 0.957                |
 | XGBoost       | Test2            | Test3                |
 
-
+**Model Recommendation**: XGBoost
 
 # 6. Conclusion
 Other factors might also affect resale price: Economic conditions, government intervention, crime rate
