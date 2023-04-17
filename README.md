@@ -47,9 +47,9 @@ After finding some possible factors that might affect the HDB resale price, we c
 ## 4A. Support Vector Regression
 Support Vector Regression (SVR) works by finding a hyperplane that maximizes the margin between the data points and the hyperplane while still fitting the data within a certain tolerance level.
 
-We first one-hot encode categorical data. Then, we train-test-split the data and scaled numerical features before training our model with a basic linear model. We achieved an accuracy score of (value) and RMSE of (value).
+We first one-hot encode categorical data. Then, we train-test-split the data and scaled numerical features before training our model with a basic linear model. We achieved an accuracy score of 0.523 and RMSE of 114510.
 
-After tuning the hyperparameters of our model by using Random Search and Grid Search. We found that Grid Search gave a higher accuracy of (value).
+After tuning the hyperparameters of our model by using Random Search and Grid Search. We found that Grid Search gave a higher accuracy of 0.922.
 
 ## 4B. Random Forest Regression
 Random Forest Regression uses ensemble learning method for regression and combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model. We can use this model to predict resale price.
