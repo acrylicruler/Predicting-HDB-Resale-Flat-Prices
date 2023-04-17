@@ -36,7 +36,13 @@
 
 
 ## 4B. Random Forest Regression
+Random Forest Regression uses ensemble learning method for regression and combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model. We can use this model to predict resale price.
 
+After running the random forest regression model, we found that the model accuracy is 0.956.
+
+We found that the most important variables that affect resale price are floor area in sqm, travel time to Raffles Place MRT and remaining lease.
+
+To achieve better predictions, we tuned the hyperparameters of our model using Random Search and Grid Search and found that Random Search produces a slightly higher model accuracy of 0.957.
 
 ## 4C. XGBoost
 
@@ -46,14 +52,14 @@
 
 | Model         | Model Accuracy   | Tuned Model Accuracy |
 | ------------- | ---------------- | -------------------- |
-| SVM           | Test1            | Test1                |
-| Random Forest | Test2            | Test2                |
+| SVM           | 0.523            | 0.922                |
+| Random Forest | 0.956            | 0.957                |
 | XGBoost       | Test2            | Test3                |
 
 
 
 # 6. Conclusion
-Other factors might also affect: Economic conditions, government intervention, crime rate
+Other factors might also affect resale price: Economic conditions, government intervention, crime rate
 
 
 Useful Links:
