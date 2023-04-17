@@ -1,4 +1,4 @@
-# SC1015 Mini Project
+# SC1015 Mini Project -- HDB Resale Flat Price Prediction 
 
 ## Tutorial Group: A134
 ### *Members: Shingamu Sai Ajay, Siah Yee Long, Sally Ngui Yu Ying*
