@@ -3,19 +3,6 @@
 ## Tutorial Group: A134
 ### *Members: Shingamu Sai Ajay, Siah Yee Long, Sally Ngui Yu Ying*
 
-- [x] Data preparation
-    - Added features into HDB resale dataset:
-        1. Get coordinates and address of flat sold
-        2. Get all MRT stations info and created "nearest MRT" and "distance to nearest MRT" feature
-        3. Get all primary and secondary schools info and created "schools within 1km" feature
-        4. Get all shopping malls info and created "nearest mall", "mall nearest distance", "mall within 500m" and "mall within 1km" feature
-        5. Get all hawker centres info and created "hawkers within 1km" feature
-        6. Connected to Google Map's API to get "travel time to RP (Raffles Place MRT Station) in minutes" feature
-- [ ] EDA
-- [ ] Analytics visualisation (perhaps we can do this on PowerBI
-- [ ] Machine learning
-- [ ] Video
-
 # 1. Problem Formulation
 **Our Dataset**: [Resale Flat Prices from Data.gov.sg](https://data.gov.sg/dataset/resale-flat-prices)
 
@@ -79,9 +66,14 @@ After tuning the hyperparameters of our model, we found that Grid Search produce
 
 **Model Recommendation**: XGBoost
 
-# 6. Conclusion
-Other factors might also affect resale price: Economic conditions, government intervention, crime rate
+Since XGBoost produces the highest accuracy after hyperparameter tuning, we have chosen it to be the best model in predicting resale prices of HDB flats.
 
+# 6. Conclusion
+In conclusion, we have looked at certain factors that might affect resale prices. Through this process, we have learnt how to use API to find additional property and geographical features, PowerBI for analytics visualisation, machine learning models such as SVR and XGBoost and how to tune the hyperparameters of the model to improve their accuracy.
+
+As we were doing this project, we realised that Data.gov.sg updated their dataset and added the most recent information for April 2023. Hence, we decided to use it to test the robustness of our model. After using the GBRT to tune our model, we have found this RMSE value and accuracy score of (value), which shows that our model is highly accurate in predicting future resale prices.
+
+However, it is possible that there are other factors might also affect resale price, such as economic conditions, government intervention, crime rate. This could be an area for future research that we believe will enable better predictions of resale prices and allow future buyers to make more informed decisions before purchasing.
 
 Useful Links:
 - [EDA visualisations](https://www.data-to-viz.com/)
