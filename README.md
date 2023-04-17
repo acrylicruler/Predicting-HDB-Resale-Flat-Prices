@@ -30,7 +30,7 @@
 
 
 # 4. Machine Learning
-### After finding some possible factors that might affect the HDB resale price, we can attempt to predict the resale price of a given flat for future buyers using machine learning models. The models that we have chosen are Support Vector Regression (SVR), Random Forest Regression, and XGBoost.
+After finding some possible factors that might affect the HDB resale price, we can attempt to predict the resale price of a given flat for future buyers using machine learning models. The models that we have chosen are Support Vector Regression (SVR), Random Forest Regression, and XGBoost.
 
 ## 4A. Support Vector Regression
 
