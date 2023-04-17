@@ -1,4 +1,4 @@
-# we-love-SC1015-please-give-A
+# SC1015 Mini Project
 
 ## Tutorial Group: A134
 ### *Members: Shingamu Sai Ajay, Siah Yee Long, Sally Ngui Yu Ying*
