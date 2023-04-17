@@ -19,10 +19,9 @@
 # 1. Problem Formulation
 **Our Dataset**: 
 
-**Our Motivation**: 
+**Our Motivation**: Affordable housing in Singapore has been a hot topic in recent times, especially with the boom in property prices during the COVID-19 pandemic. During the pandemic, construction of built-to-order flats in Singapore were put on a halt, and the rise in raw material cost following that only exacerbated the situation. This pushed many young couples to seek resale flats, and with high demand and low supply of public housing, prices of HDB resale flats have skyrocketed. This caused us to question: What are the possible factors that affect the prices of resale flats? How can we predict the prices of HDB resale flats for future buyers, including ourselves, so that we can make more informed decisions?
 
-**Our Question**: How can we predict the prices of HDB resale flats?
-
+**Our Question**: How can we predict the prices of HDB resale flats given property and geographical features?
 
 # 2. Data Preparation and Cleaning
 
@@ -54,6 +53,7 @@
 
 
 # 6. Conclusion
+Other factors might also affect: Economic conditions, government intervention, crime rate
 
 
 Useful Links:
