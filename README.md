@@ -24,7 +24,9 @@
 **Our Question**: How can we predict the prices of HDB resale flats given property and geographical features?
 
 # 2. Data Preparation and Cleaning
-Added features into HDB resale dataset: 
+With our current dataset, we wanted to dig deeper into its geographical location, and how they may affect the resale price of the flats. We start by extracting the longitude and latitude coordinates by using the one map API. With the geographical coordinates, we consulted experienced homebuyers and researched on what people think are important factors when buying a house. We consolidated these factors: distance to nearest MRT and mall, number of schools and hawkers within 1km, as well as travel time to Raffles Place MRT, where most offices are located, assuming this is their workplace.
+
+We added these features into the HDB resale dataset: 
 1. Get coordinates and address of flat sold
 2. Get all MRT stations info and created "nearest MRT" and "distance to nearest MRT" feature
 3. Get all primary and secondary schools info and created "schools within 1km" feature
@@ -33,7 +35,11 @@ Added features into HDB resale dataset:
 6. Connected to Google Map's API to get "travel time to RP (Raffles Place MRT Station) in minutes" feature
 
 # 3. Exploratory Data Analysis
-We conducted EDA on numerical and categorical variables. 
+We conducted EDA on numerical and categorical variables. We found that the two factors that have the highest correlation with resale price are floor area and travel time to RP in minutes. 
+
+We found that resale price and floor area are positively correlated, which is expected as larger floor area suggests a larger flat they are paying for. 
+
+The resale price and travel time to Raffles Place MRT in minutes are negatively correlated, which is possibly because people want a shorter travel time to the central business district for greater convenience, where most of the offices are located at.
 
 # 4. Machine Learning
 After finding some possible factors that might affect the HDB resale price, we can attempt to predict the resale price of a given flat for future buyers using machine learning models. The models that we have chosen are Support Vector Regression (SVR), Random Forest Regression, and XGBoost.
