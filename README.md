@@ -76,12 +76,6 @@ As we were doing this project, we realised that Data.gov.sg updated their datase
 However, it is possible that there are other factors might also affect resale price, such as economic conditions, government intervention, crime rate. This could be an area for future research that we believe will enable better predictions of resale prices and allow future buyers to make more informed decisions before purchasing.
 
 <details>
-<summary># References</summary>
-https://slidesgo.com/theme/real-estate-marketing-plan#search-Real+Estate&position-1&results-28
-
-https://www.channelnewsasia.com/singapore/jurong-point-subway-snatch-theft-illegal-remittance-court-jail-3412236
-
-https://blog.seedly.sg/whats-driving-up-singapore-property-prices/
-
-https://levelup.gitconnected.com/random-forest-regression-209c0f354c84 
+<summary>References</summary>
+- links
 </details>
