@@ -16,6 +16,29 @@
 - [ ] Machine learning
 - [ ] Video
 
+## 1. Problem Formulation
+
+
+
+## 2. Data Preparation and Cleaning
+
+
+## 3. Exploratory Data Analysis
+
+
+
+## 4. Machine Learning
+
+| Model         | Model Accuracy   | Tuned Model Accuracy |
+| ------------- | ---------------- | -------------------- |
+| SVM           | Test1            | Test1                |
+| Random Forest | Test2            | Test2                |
+| XGBoost       | Test2            | Test3                |
+
+
+
+## 5. Conclusion
+
 
 Useful Links:
 - [EDA visualisations](https://www.data-to-viz.com/)
