@@ -77,25 +77,45 @@ However, it is possible that there are other factors might also affect resale pr
 
 <details>
 <summary>References</summary>
-- https://slidesgo.com/theme/real-estate-marketing-plan#search-Real+Estate&position-1&results-28
-- https://www.channelnewsasia.com/singapore/jurong-point-subway-snatch-theft-illegal-remittance-court-jail-3412236
-- https://blog.seedly.sg/whats-driving-up-singapore-property-prices/
-- https://upload.wikimedia.org/wikipedia/commons/f/f3/Pinnacle%40Duxton%2C_Singapore_-_20100101.jpg 
-- http://souravsengupta.com
-- https://static.mothership.sg/1/2019/04/Screen-Shot-2019-04-28-at-6.39.32-PM.png 
-- https://www.asiaone.com/money/4-room-bendemeer-hdb-resale-flat-sold-1m 
-- https://www.asiaone.com/money/record-breaking-hdb-resale-maisonettes-toh-yi-drive-flat-sold-13m-jurong-east-flat-sold-1m 
-- https://www.straitstimes.com/singapore/housing/more-hdb-resale-flats-sold-for-at-least-1m-in-first-9-months-of-2022-than-in-whole-of-2021 
-- https://towardsdatascience.com/building-a-one-hot-encoding-layer-with-tensorflow-f907d686bf39 
-- https://towardsdatascience.com/4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383
-- https://www.researchgate.net/figure/The-architecture-of-Gradient-Boosting-Decision-Tree_fig2_356698772
-- https://www.researchgate.net/figure/Comparison-between-a-grid-search-and-b-random-search-for-hyper-parameter-tuning-The_fig2_341691661 
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gormanalysis.com%2Fblog%2Fgradient-boosting-explained%2F&psig=AOvVaw24T8Kt8qhohPWlI8xN- usc&ust=1681810770505000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCz4cDPsP4CFQAAAAAdAAAAABAD 
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fsvm%2F&psig=AOvVaw3WwKPVtBH7vL0n7-n5pUAQ&ust=1681810719070000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJiXhKjPsP4CFQAAAAAdAAAAABAD 
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.windowsreport.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFix-power-bi-cant-find-app.jpg&tbnid=nkjYiN1RvGgm-M&vet=12ahUKEwjaiLuUz7D-AhVVFbcAHV7jDLoQMygEegUIARDSAQ..i&imgrefurl=https%3A%2F%2Fwindowsreport.com%2Fpower-bi-cant-find-app%2F&docid=QLf7bmj7RoiUqM&w=1200&h=1200&q=powerbi%20icon&ved=2ahUKEwjaiLuUz7D-AhVVFbcAHV7jDLoQMygEegUIARDSAQ 
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F6681%2F6681415.png&tbnid=k7umq_tdqlVlGM&vet=12ahUKEwjAgfDwz7D-AhUL83MBHdkCB0AQMygMegUIARDcAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsetting_6681415&docid=YTQ_sUULeZdjGM&w=512&h=512&q=hyperparameter%20tuning%20icon&ved=2ahUKEwjAgfDwz7D-AhUL83MBHdkCB0AQMygMegUIARDcAQ 
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3310%2F3310624.png&tbnid=QrTWbWNeEizkqM&vet=12ahUKEwjNi8a507D-AhVT1HMBHQB4DJoQMygAegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Feconomic_3310624&docid=N9YYgIEtLY6C9M&w=512&h=512&q=economic%20conditions%20icon&ved=2ahUKEwjNi8a507D-AhVT1HMBHQB4DJoQMygAegUIARDJAQ 
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F8040%2F8040938.png&tbnid=yGuKbIW36FAu4M&vet=12ahUKEwiKhY7J07D-AhUK-HMBHbEkCckQMygCegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fpolicy_8040938&docid=zyiocACpzWyrnM&w=512&h=512&q=government%20policies%20icon&ved=2ahUKEwiKhY7J07D-AhUK-HMBHbEkCckQMygCegUIARDOAQ
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F128%2F4321%2F4321395.png&tbnid=XCKuEzUa4gYkLM&vet=12ahUKEwj0trfV07D-AhXOBbcAHdDzANgQMygJegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icons%2Fcrime&docid=qYj3LFXwIlQoAM&w=128&h=128&q=crime%20rate%20icon&ved=2ahUKEwj0trfV07D-AhXOBbcAHdDzANgQMygJegUIARDeAQ
-- https://levelup.gitconnected.com/random-forest-regression-209c0f354c84 
+https://slidesgo.com/theme/real-estate-marketing-plan#search-Real+Estate&position-1&results-28​
+
+https://www.channelnewsasia.com/singapore/jurong-point-subway-snatch-theft-illegal-remittance-court-jail-3412236​
+
+https://blog.seedly.sg/whats-driving-up-singapore-property-prices/​
+
+https://upload.wikimedia.org/wikipedia/commons/f/f3/Pinnacle%40Duxton%2C_Singapore_-_20100101.jpg ​
+
+http://souravsengupta.com/​
+
+https://static.mothership.sg/1/2019/04/Screen-Shot-2019-04-28-at-6.39.32-PM.png ​
+
+https://www.asiaone.com/money/4-room-bendemeer-hdb-resale-flat-sold-1m ​
+
+https://www.asiaone.com/money/record-breaking-hdb-resale-maisonettes-toh-yi-drive-flat-sold-13m-jurong-east-flat-sold-1m ​
+
+https://www.straitstimes.com/singapore/housing/more-hdb-resale-flats-sold-for-at-least-1m-in-first-9-months-of-2022-than-in-whole-of-2021 ​
+
+https://towardsdatascience.com/building-a-one-hot-encoding-layer-with-tensorflow-f907d686bf39 ​
+
+https://towardsdatascience.com/4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383​
+
+https://www.researchgate.net/figure/The-architecture-of-Gradient-Boosting-Decision-Tree_fig2_356698772​
+
+https://www.researchgate.net/figure/Comparison-between-a-grid-search-and-b-random-search-for-hyper-parameter-tuning-The_fig2_341691661 ​
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gormanalysis.com%2Fblog%2Fgradient-boosting-explained%2F&psig=AOvVaw24T8Kt8qhohPWlI8xN- usc&ust=1681810770505000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCz4cDPsP4CFQAAAAAdAAAAABAD ​
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fsvm%2F&psig=AOvVaw3WwKPVtBH7vL0n7-n5pUAQ&ust=1681810719070000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJiXhKjPsP4CFQAAAAAdAAAAABAD ​
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.windowsreport.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFix-power-bi-cant-find-app.jpg&tbnid=nkjYiN1RvGgm-M&vet=12ahUKEwjaiLuUz7D-AhVVFbcAHV7jDLoQMygEegUIARDSAQ..i&imgrefurl=https%3A%2F%2Fwindowsreport.com%2Fpower-bi-cant-find-app%2F&docid=QLf7bmj7RoiUqM&w=1200&h=1200&q=powerbi%20icon&ved=2ahUKEwjaiLuUz7D-AhVVFbcAHV7jDLoQMygEegUIARDSAQ ​
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F6681%2F6681415.png&tbnid=k7umq_tdqlVlGM&vet=12ahUKEwjAgfDwz7D-AhUL83MBHdkCB0AQMygMegUIARDcAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsetting_6681415&docid=YTQ_sUULeZdjGM&w=512&h=512&q=hyperparameter%20tuning%20icon&ved=2ahUKEwjAgfDwz7D-AhUL83MBHdkCB0AQMygMegUIARDcAQ ​
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3310%2F3310624.png&tbnid=QrTWbWNeEizkqM&vet=12ahUKEwjNi8a507D-AhVT1HMBHQB4DJoQMygAegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Feconomic_3310624&docid=N9YYgIEtLY6C9M&w=512&h=512&q=economic%20conditions%20icon&ved=2ahUKEwjNi8a507D-AhVT1HMBHQB4DJoQMygAegUIARDJAQ ​
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F8040%2F8040938.png&tbnid=yGuKbIW36FAu4M&vet=12ahUKEwiKhY7J07D-AhUK-HMBHbEkCckQMygCegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fpolicy_8040938&docid=zyiocACpzWyrnM&w=512&h=512&q=government%20policies%20icon&ved=2ahUKEwiKhY7J07D-AhUK-HMBHbEkCckQMygCegUIARDOAQ​
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F128%2F4321%2F4321395.png&tbnid=XCKuEzUa4gYkLM&vet=12ahUKEwj0trfV07D-AhXOBbcAHdDzANgQMygJegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icons%2Fcrime&docid=qYj3LFXwIlQoAM&w=128&h=128&q=crime%20rate%20icon&ved=2ahUKEwj0trfV07D-AhXOBbcAHdDzANgQMygJegUIARDeAQ​
+
+https://levelup.gitconnected.com/random-forest-regression-209c0f354c84 
 </details>
