@@ -11,7 +11,7 @@
 **Our Question**: How can we predict the prices of HDB resale flats given property and geographical features?
 
 # 2. Data Preparation and Cleaning
-With our current dataset, we wanted to dig deeper into its geographical location, and how they may affect the resale price of the flats. We start by extracting the longitude and latitude coordinates by using the one map API. With the geographical coordinates, we consulted experienced homebuyers and researched on what people think are important factors when buying a house. We consolidated these factors: distance to nearest MRT and mall, number of schools and hawkers within 1km, as well as travel time to Raffles Place MRT, where most offices are located, assuming this is their workplace.
+With our current dataset, we wanted to dig deeper into its geographical location, and how they may affect the resale price of the flats. We start by extracting the longitude and latitude coordinates by using the one map API. With the geographical coordinates, we consulted experienced homebuyers and researched on what people think are important factors when buying a house. We consolidated these factors: distance to nearest MRT and mall, number of schools and hawkers within 1km, as well as travel time to Raffles Place MRT, where most offices are located, assuming this is their workplace. 
 
 We added these features into the HDB resale dataset: 
 1. Get coordinates and address of flat sold
