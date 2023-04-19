@@ -71,7 +71,7 @@ Since XGBoost produces the highest accuracy after hyperparameter tuning, we have
 # 6. Conclusion
 In conclusion, we have looked at certain factors that might affect resale prices. Through this process, we have learnt how to use API to find additional property and geographical features, PowerBI for analytics visualisation, machine learning models such as SVR and XGBoost and how to tune the hyperparameters of the model to improve their accuracy.
 
-As we were doing this project, we realised that Data.gov.sg updated their dataset and added the most recent information for April 2023. Hence, we decided to use it to test the robustness of our model. After using the GBRT to tune our model, we have found this RMSE value and accuracy score of (value), which shows that our model is highly accurate in predicting future resale prices.
+As we were doing this project, we realised that Data.gov.sg updated their dataset and added the most recent information for April 2023. Hence, we decided to use it to test the robustness of our model. After using the GBRT to tune our model, we have found the RMSE value of 40165 and accuracy score of 0.947, which shows that our model is highly accurate in predicting future resale prices.
 
 However, it is possible that there are other factors might also affect resale price, such as economic conditions, government intervention, crime rate. This could be an area for future research that we believe will enable better predictions of resale prices and allow future buyers to make more informed decisions before purchasing.
 
