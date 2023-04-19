@@ -78,7 +78,9 @@ However, it is possible that there are other factors might also affect resale pr
 <details>
 <summary>Project Video</summary>
 https://youtu.be/JVBR8tnrslk 
+</details>
  
+<details>
 <summary>References</summary>
 https://data.gov.sg/dataset/resale-flat-prices
  
