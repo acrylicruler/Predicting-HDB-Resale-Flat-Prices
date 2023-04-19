@@ -77,6 +77,8 @@ However, it is possible that there are other factors might also affect resale pr
 
 <details>
 <summary>References</summary>
+https://data.gov.sg/dataset/resale-flat-prices
+ 
 https://slidesgo.com/theme/real-estate-marketing-plan#search-Real+Estate&position-1&results-28​
 
 https://www.channelnewsasia.com/singapore/jurong-point-subway-snatch-theft-illegal-remittance-court-jail-3412236​
@@ -103,7 +105,7 @@ https://www.researchgate.net/figure/The-architecture-of-Gradient-Boosting-Decisi
 
 https://www.researchgate.net/figure/Comparison-between-a-grid-search-and-b-random-search-for-hyper-parameter-tuning-The_fig2_341691661 ​
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gormanalysis.com%2Fblog%2Fgradient-boosting-explained%2F&psig=AOvVaw24T8Kt8qhohPWlI8xN- usc&ust=1681810770505000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCz4cDPsP4CFQAAAAAdAAAAABAD ​
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gormanalysis.com%2Fblog%2Fgradient-boosting-explained%2F&psig=AOvVaw24T8Kt8qhohPWlI8xN-usc&ust=1681810770505000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCz4cDPsP4CFQAAAAAdAAAAABAD ​
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fsvm%2F&psig=AOvVaw3WwKPVtBH7vL0n7-n5pUAQ&ust=1681810719070000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJiXhKjPsP4CFQAAAAAdAAAAABAD ​
 
