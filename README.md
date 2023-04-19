@@ -76,6 +76,9 @@ As we were doing this project, we realised that Data.gov.sg updated their datase
 However, it is possible that there are other factors might also affect resale price, such as economic conditions, government intervention, crime rate. This could be an area for future research that we believe will enable better predictions of resale prices and allow future buyers to make more informed decisions before purchasing.
 
 <details>
+<summary>Project Video</summary>
+https://youtu.be/JVBR8tnrslk 
+ 
 <summary>References</summary>
 https://data.gov.sg/dataset/resale-flat-prices
  
