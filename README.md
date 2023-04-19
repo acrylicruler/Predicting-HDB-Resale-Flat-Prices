@@ -95,9 +95,9 @@ https://www.asiaone.com/money/4-room-bendemeer-hdb-resale-flat-sold-1m ​
 
 https://www.asiaone.com/money/record-breaking-hdb-resale-maisonettes-toh-yi-drive-flat-sold-13m-jurong-east-flat-sold-1m ​
 
-https://www.straitstimes.com/singapore/housing/more-hdb-resale-flats-sold-for-at-least-1m-in-first-9-months-of-2022-than-in-whole-of-2021 ​
+https://www.straitstimes.com/singapore/housing/more-hdb-resale-flats-sold-for-at-least-1m-in-first-9-months-of-2022-than-in-whole-of-2021
 
-https://towardsdatascience.com/building-a-one-hot-encoding-layer-with-tensorflow-f907d686bf39 ​
+https://towardsdatascience.com/building-a-one-hot-encoding-layer-with-tensorflow-f907d686bf39 
 
 https://towardsdatascience.com/4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383​
 
