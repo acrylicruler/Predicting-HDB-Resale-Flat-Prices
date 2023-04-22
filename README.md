@@ -77,7 +77,7 @@ However, it is possible that there are other factors might also affect resale pr
 
 <details>
 <summary>Project Video</summary>
-https://youtu.be/JVBR8tnrslk 
+https://youtu.be/iR6RlE59T-U
 </details>
  
 <details>
